@@ -15,7 +15,3 @@ To run these components, you will need:
 1. Clone this repository to your local machine.
 2. Navigate to the directory containing the component you want to use.
 3. Run the Python script corresponding to the component.
-
-
-## Acknowledgements
-Special thanks to the developers of myHDL for providing a powerful tool for hardware description.
