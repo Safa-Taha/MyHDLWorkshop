@@ -1,9 +1,9 @@
 # Digital Components in Python using myHDL
 
 ## Overview
-This project contains a set of basic digital components implemented in Python using the myHDL library. The myHDL package converts Python code to Verilog synthesizable code, making it suitable for hardware description and synthesis.
+This repository contains a set of basic digital components implemented in Python using the myHDL library. The myHDL package converts Python code to Verilog synthesizable code, making it suitable for hardware description and synthesis.
 
-These components were created as part of a Computer Organization and Architecture course, and they serve as tangible examples of key concepts in digital layout.
+These components were created as part of the Computer Organization and Architecture course, and they serve as tangible examples of key concepts in digital layout.
 
 
 ## Requirements
