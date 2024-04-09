@@ -64,7 +64,7 @@ def test_memory():
     return memory, clk_gen, enable_gen, stimulus
 
 
-# -------------------------End of Test Bench------------------------- #
+# End of Test Bench
 
 
 # Verilog Conversion
