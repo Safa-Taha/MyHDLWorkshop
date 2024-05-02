@@ -2,7 +2,6 @@ from myhdl import block, always, always_comb, \
     instance, Signal, intbv, delay
 from random import randrange
 
-
 # Start of Module
 @block
 def Memory(clk, en, addr, din, dout):
@@ -62,8 +61,6 @@ def test_memory():
         addr.next = randrange(2 ** 5)
 
     return memory, clk_gen, enable_gen, stimulus
-
-
 # End of Test Bench
 
 
